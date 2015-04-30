@@ -1,0 +1,7 @@
+	platform :ios, '7.0'
+pod 'AFNetworking'
+pod 'SBJson4'
+pod "AWSiOSSDKv2"
+pod "AWSCognitoSync"
+pod 'SDWebImage'
+
